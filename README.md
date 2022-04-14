@@ -10,3 +10,7 @@ or You can download the dataset in Baidu cloud:
 提取码：wsgk 
 
 The validation and test dataset have been published in Release!
+
+
+# Literature sharing
+We hope that we can have some insights and record them in the process of research. It is recommended to use the markdown .
