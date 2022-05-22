@@ -31,7 +31,7 @@ The validation and test dataset have been published in Release!
 | nnFormer   | 0.715 +- 0.054 | 0.565 +- 0.077 | 0.005107598 | 5     |
 | ConsMorph  | 0.758 +- 0.037 | 0.588 +- 0.059 | 5.06E-05    | 5     |
 
-
+![结果可视化图](./结果可视化图.png)
 ![结果可视化图_overlay](./结果可视化图_overlay.png)
 
 ## Requirement installation
