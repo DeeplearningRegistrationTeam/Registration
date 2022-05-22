@@ -1,6 +1,7 @@
 # DeepLearning_UCAS2022_registration
 
 This repository is used to manage our team's code and document sharing. I hope everyone can gain a lot from this cooperation.
+At present, our cooperation has been completed. All our codes can be found in the master branch. Team member yjzhong also provides the codes of nnFormer and TransMorph. For details, see the **yjzhong branch**
 
 
 # Dataset
