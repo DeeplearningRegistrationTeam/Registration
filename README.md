@@ -11,7 +11,7 @@ or You can download the dataset in Baidu cloud:
 链接：https://pan.baidu.com/s/1GN2_7KHCeZEvX5ECdQ4A3g 
 提取码：wsgk 
 
-<<<<<<< HEAD
+
 
 The validation and test dataset have been published in Release
 =======
