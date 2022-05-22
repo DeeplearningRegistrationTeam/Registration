@@ -13,10 +13,6 @@ or You can download the dataset in Baidu cloud:
 
 
 
-The validation and test dataset have been published in Release
-=======
-
-The validation and test dataset have been published in Release!
 
 ## Result
 
