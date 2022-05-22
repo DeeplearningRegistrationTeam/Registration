@@ -1,19 +1,39 @@
 # DeepLearning_UCAS2022_registration
+
 This repository is used to manage our team's code and document sharing. I hope everyone can gain a lot from this cooperation.
 
 
 # Dataset
+
 You can download the dataset in MICCAI chanllenge ,url: https://learn2reg.grand-challenge.org/Datasets/
 
 or You can download the dataset in Baidu cloud:
 链接：https://pan.baidu.com/s/1GN2_7KHCeZEvX5ECdQ4A3g 
 提取码：wsgk 
 
+<<<<<<< HEAD
+
 The validation and test dataset have been published in Release
+=======
 
+The validation and test dataset have been published in Release!
 
-# Literature sharing
-We hope that we can have some insights and record them in the process of research. It is recommended to use the markdown .
+## Result
+
+| model      | DSC            | Affine DSC     | Jacobian    | alpha |
+| ---------- | -------------- | -------------- | ----------- | ----- |
+| ConsMorph  | 0.772 +- 0.032 | 0.588 +- 0.059 | 0.00461421  | 1     |
+| CycleMorph | 0.703 +- 0.040 | 0.588 +- 0.059 | 0.007853651 | 1     |
+| TransMorph | 0.796 +- 0.022 | 0.588 +- 0.059 | 0.005144969 | 1     |
+| SyN        | 0.769 +- 0.029 | 0.588 +- 0.059 | 2.78E-06    | 1     |
+| VoxelMorph | 0.772 +- 0.034 | 0.588 +- 0.059 | 0.000511589 | 1     |
+| nnFormer   | 0.821 +- 0.023 | 0.565 +- 0.077 | 0.010476237 | 1     |
+| nnFormer   | 0.715 +- 0.054 | 0.565 +- 0.077 | 0.005107598 | 5     |
+| ConsMorph  | 0.758 +- 0.037 | 0.588 +- 0.059 | 5.06E-05    | 5     |
+
+![结果可视化图](I:\GuoKe\deeplearning\result\结果可视化图.png)
+
+![结果可视化图_overlay](I:\GuoKe\deeplearning\result\结果可视化图_overlay.png)
 
 ## Requirement installation
 
@@ -184,3 +204,8 @@ python ./script/ConsMoprh/infer.py
 ## Reference:
 
 <a href="https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration.git">TransMorph</a>
+=======
+
+# To be updated later.....
+
+>>>>>>> 972b5a08f052a933da17db549fdc81dbf2736ede
