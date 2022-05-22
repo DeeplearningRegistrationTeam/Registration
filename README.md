@@ -31,7 +31,7 @@ The validation and test dataset have been published in Release!
 | nnFormer   | 0.715 +- 0.054 | 0.565 +- 0.077 | 0.005107598 | 5     |
 | ConsMorph  | 0.758 +- 0.037 | 0.588 +- 0.059 | 5.06E-05    | 5     |
 
-<img src="[https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif](https://github.com/DeeplearningRegistrationTeam/Registration/blob/master/%E7%BB%93%E6%9E%9C%E5%8F%AF%E8%A7%86%E5%8C%96%E5%9B%BE.png)">
+<img src="(https://github.com/DeeplearningRegistrationTeam/Registration/blob/master/%E7%BB%93%E6%9E%9C%E5%8F%AF%E8%A7%86%E5%8C%96%E5%9B%BE.png)">
 
 ![结果可视化图_overlay](I:\GuoKe\deeplearning\result\结果可视化图_overlay.png)
 
